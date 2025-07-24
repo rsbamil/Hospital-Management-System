@@ -1,6 +1,6 @@
-Live Preview Admin Dashboard --> https://hospital-management-system-dashboar.vercel.app
+Live Preview Admin Dashboard --> https://hospital-management-system-dashboar.vercel.app/
 
-Live Preview Main Page --> https://hospital-management-system-2fwjaauf2.vercel.app
+Live Preview Main Page --> https://hospital-management-system-xi-three.vercel.app/
 
 
 # 🏥 Hospital Management System
