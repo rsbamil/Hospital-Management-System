@@ -5,7 +5,7 @@ const AboutUs = () => {
   return (
     <>
       <Hero
-        title={"Learn More About Us | ZeeCare Medical Institute"}
+        title={"Learn More About Us | RK Medical Institute And Research Center"}
         imageUrl={"/about.png"}
       />
       <Biography imageUrl={"/whoweare.png"} />
